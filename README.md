@@ -1,4 +1,4 @@
-Assessment Code
+# Assessment Code
 
 The Code share above is a Simple representation of RAG Implementattion using OpenAI and Langchain at its core and FAISS as the database . 
 
